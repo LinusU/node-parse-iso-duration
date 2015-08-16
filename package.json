@@ -1,6 +1,6 @@
 {
   "name": "parse-iso-duration",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "main": "index.js",
