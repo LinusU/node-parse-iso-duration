@@ -1,7 +1,7 @@
 /* eslint-env mocha */
 
 var assert = require('assert')
-var parseIsoDuration = require('../')
+var parseIsoDuration = require('./')
 
 describe('parseIsoDuration', function () {
   it('should parse durations', function () {
