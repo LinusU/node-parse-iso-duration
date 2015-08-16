@@ -4,6 +4,9 @@
   "license": "MIT",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/LinusU/node-parse-iso-duration.git"
