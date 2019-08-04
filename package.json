@@ -5,6 +5,7 @@
   "repository": "LinusU/node-parse-iso-duration",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "files": [
+    "index.d.ts",
     "index.js"
   ],
   "scripts": {
