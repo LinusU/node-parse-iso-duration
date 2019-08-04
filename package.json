@@ -2,15 +2,11 @@
   "name": "parse-iso-duration",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": "LinusU/node-parse-iso-duration",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
-  "main": "index.js",
   "files": [
     "index.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/LinusU/node-parse-iso-duration.git"
-  },
   "scripts": {
     "test": "standard && mocha"
   },

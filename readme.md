@@ -11,7 +11,6 @@ npm install --save parse-iso-duration
 ## Usage
 
 ```javascript
-
 var parseIsoDuration = require('parse-iso-duration');
 
 parseIsoDuration('PT8S');   // 8 * 1000
@@ -21,7 +20,6 @@ parseIsoDuration('PT6M4S'); // 6 * 60 * 1000 + 4 * 1000
 
 parseIsoDuration('Hello world'); // Throws "Invalid duration"
 parseIsoDuration('P10Y10M10D');  // Throws "Ambiguous duration"
-
 ```
 
 ## Year and month
