@@ -26,6 +26,10 @@ parseIsoDuration('P10Y10M10D');  // Throws "Ambiguous duration"
 
 If years or months is specified and more than 0 the library will throw `"Ambiguous duration"` since it's meaning can't be converted to milliseconds.
 
+## Related
+
+- Swift version: [LinusU/ParseISODuration](https://github.com/LinusU/ParseISODuration)
+
 ## License
 
 MIT
